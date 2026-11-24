@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Road to Game Engineer
+  structure:
+    - type: space
+      key: engineering-journal
+      title: Engineering Journal
+      path: engineering-journal
+      default: true
+      content:
+        directory: ./docs
+        language: ko
