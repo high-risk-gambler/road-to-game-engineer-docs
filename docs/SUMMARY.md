@@ -18,6 +18,7 @@
   * [namespace](undefined-2/cpp/namespace.md)
   * [Reference](undefined-2/cpp/reference.md)
   * [new\_delete](undefined-2/cpp/new_delete.md)
+  * [상속과 다형성](undefined-2/cpp/undefined.md)
 * [컴퓨터과학 기초](computer-science/README.md)
 * [알고리즘 풀이](algorithms/README.md)
 * [게임 수학](game-math/README.md)
